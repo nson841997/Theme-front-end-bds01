@@ -1,0 +1,33 @@
+@media (max-width: 1199px) {
+	#header{
+		border-bottom:1px solid #0c569f;
+		}
+	.navbar-brand{
+		padding:10px 15px;
+		}
+	.navbar-brand>img{
+		height:68px;
+		}
+	.navTop{
+		margin:10px 0;
+		overflow:hidden;
+		}
+	.navbar-nav>li{
+		border:none;
+		}
+}
+
+
+@media (max-width: 991px) {
+	#boxSearch{
+		margin-bottom:15px;
+		}
+}
+@media (max-width: 450px) {
+	.newsFocus img{
+		margin:0;
+		float:none;
+		width:100%;
+		}
+}
+
